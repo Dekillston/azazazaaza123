@@ -1,0 +1,5 @@
+
+Это тестовая надпись. Она находится в файле messages.txt
+denis написал: hello
+denis написал: privet 
+cola написал: cac dela
